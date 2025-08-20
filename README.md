@@ -69,7 +69,7 @@ Software Engineer | Security & IAM Specialist | Cloud-Native Systems Architect
 
 ### 📫 How to Reach Me
 
-[![Email](https://img.shields.io/badge/Email-aksh.dkgmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aksh.dk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aksh.dk@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aksh.dk@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE](https://www.linkedin.com/in/akshaykomarla))
 
